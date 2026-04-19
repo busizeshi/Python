@@ -1,0 +1,498 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The World's Billionaires",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.506736755371094,
+          64.85888671875
+        ],
+        [
+          357.1191711425781,
+          63.421875
+        ],
+        [
+          357.1191711425781,
+          89.87884521484375
+        ],
+        [
+          34.365234375,
+          89.87884521484375
+        ]
+      ]
+    },
+    {
+      "title": "Methodology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.6640625,
+          546.046875
+        ],
+        [
+          156.5859375,
+          544.5
+        ],
+        [
+          156.5859375,
+          564.4546356201172
+        ],
+        [
+          34.6640625,
+          564.609375
+        ]
+      ]
+    },
+    {
+      "title": "The World's Billionaires",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          362.478515625,
+          145.01953125
+        ],
+        [
+          515.6133422851562,
+          143.47265625
+        ],
+        [
+          515.6133422851562,
+          159.393798828125
+        ],
+        [
+          361.283203125,
+          159.393798828125
+        ]
+      ]
+    },
+    {
+      "title": "Annual rankings",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.06640625,
+          219.89544677734375
+        ],
+        [
+          192.95098876953125,
+          218.8828125
+        ],
+        [
+          192.95098876953125,
+          237.91162109375
+        ],
+        [
+          34.06640625,
+          238.9921875
+        ]
+      ]
+    },
+    {
+      "title": "Legend",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.962890625,
+          308.46484375
+        ],
+        [
+          88.13915252685547,
+          307.0546875
+        ],
+        [
+          88.13915252685547,
+          322.472412109375
+        ],
+        [
+          34.962890625,
+          322.5234375
+        ]
+      ]
+    },
+    {
+      "title": "2023",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.6640625,
+          441.6328125
+        ],
+        [
+          66.66595458984375,
+          440.0859375
+        ],
+        [
+          66.66595458984375,
+          456.0924072265625
+        ],
+        [
+          34.6640625,
+          456.0924072265625
+        ]
+      ]
+    },
+    {
+      "title": "2022",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.506736755371094,
+          389.42578125
+        ],
+        [
+          66.66595458984375,
+          389.42578125
+        ],
+        [
+          66.66595458984375,
+          405.796875
+        ],
+        [
+          34.962890625,
+          405.796875
+        ]
+      ]
+    },
+    {
+      "title": "2021",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.506736755371094,
+          390.97265625
+        ],
+        [
+          69.25270080566406,
+          390.97265625
+        ],
+        [
+          69.25270080566406,
+          405.796875
+        ],
+        [
+          34.6640625,
+          405.796875
+        ]
+      ]
+    },
+    {
+      "title": "2020",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.962890625,
+          729.3515625
+        ],
+        [
+          66.66595458984375,
+          729.3515625
+        ],
+        [
+          66.66595458984375,
+          743.6001052856445
+        ],
+        [
+          33.767578125,
+          743.6001052856445
+        ]
+      ]
+    },
+    {
+      "title": "2019",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.506736755371094,
+          351.52734375
+        ],
+        [
+          69.25270080566406,
+          351.52734375
+        ],
+        [
+          69.25270080566406,
+          366.761962890625
+        ],
+        [
+          34.365234375,
+          366.761962890625
+        ]
+      ]
+    },
+    {
+      "title": "2018",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.962890625,
+          705.375
+        ],
+        [
+          66.66595458984375,
+          705.375
+        ],
+        [
+          66.66595458984375,
+          720.3293533325195
+        ],
+        [
+          33.767578125,
+          720.3293533325195
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          351
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          458
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          479
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\billionaires_page"
+}
