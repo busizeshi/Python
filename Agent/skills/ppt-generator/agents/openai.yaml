@@ -1,0 +1,5 @@
+﻿version: 1
+interface:
+  display_name: PPT 生成器
+  short_description: 根据主题自动生成页级 PPT 大纲。
+  default_prompt: 请基于我的主题和受众，生成一份可直接用于制作 PPT 的结构化大纲。

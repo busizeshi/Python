@@ -1,0 +1,18 @@
+﻿[
+  {
+    "deck_title": "AI 客服提效方案",
+    "subtitle": "从问题定义到落地执行",
+    "audience": "管理层",
+    "duration_minutes": 15,
+    "slides": [
+      {
+        "slide_no": 1,
+        "slide_title": "封面",
+        "objective": "建立主题与价值预期",
+        "bullet_points": ["背景", "目标", "收益"],
+        "speaker_notes": "30 秒说明此次汇报价值。",
+        "visual_suggestion": "简洁标题页 + 关键数字"
+      }
+    ]
+  }
+]

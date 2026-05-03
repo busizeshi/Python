@@ -1,0 +1,18 @@
+﻿[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multi-agent-learning"
+version = "0.1.0"
+description = "Engineering-level learning project for multi-agent, LangGraph, and A2A patterns"
+requires-python = ">=3.11"
+dependencies = [
+  "langgraph>=0.3.0"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
